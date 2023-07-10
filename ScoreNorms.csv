@@ -1,0 +1,10 @@
+Test,Grade,FallLow,FallHigh,WinterLow,WinterHigh,SpringLow,SpringHigh
+Mathematics,9,221,242,224,245,225,246
+Mathematics,10,224,245,226,248,227,249
+Mathematics,11,227,248,228,250,229,251
+Reading,9,214,234,216,235,216,236
+Reading,10,217,236,218,237,218,238
+Reading,11,219,237,220,239,219,239
+Language,9,213,229,214,230,215,231
+Language,10,215,231,216,232,217,233
+Language,11,217,232,218,233,218,234
